@@ -1,6 +1,8 @@
 # Bluestorm
 Even though this is a repository, this is only for bug tracking purposes.
 
+*This game is a work in progress and may have bugs or crash sometimes. Please report all bugs and crashes [here](https://github.com/YukitoNakamura/bluestormgame/issues).*
+
 ## Game Information
 Bluestorm is a RPG Game set in a near-future world(2076):
 > During a heist at a big bank corporation, the intrusion system detects invasion and promptly sounds the alarm, causing the building to go into lockdown. Unable to escape normally, you fight the guards and escape, also leaving the city. Three years later, you return and see everything changed, so you promise to unravel all secrets the city hides, alongside your long time best friends.
@@ -10,7 +12,7 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 
-### Bluestorm 2024-06-28
+### Build 2024-06-28
 **Added**
 - Translations from portuguese to english;
 
