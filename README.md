@@ -12,6 +12,20 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 
+### Build 2024-07-01
+
+**Added**
+- Nathalia as a kidnappable girl;
+- Plaques to indicate locations in the main map;
+- Day of week to the clock menu(page down>status);
+
+**Fixed**
+- Some untranslated bits;
+- Reimplemented character schedules;
+- Location opening times(not all);
+
+
+---
 ### Build 2024-06-28
 **Added**
 - Translations from portuguese to english;
