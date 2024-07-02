@@ -23,6 +23,7 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 - Some untranslated bits;
 - Reimplemented character schedules;
 - Location opening times(not all);
+- KeyboardConfig menu now shows up on Options;
 
 
 ---
