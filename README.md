@@ -12,6 +12,27 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 
+### Build 2024-07-05
+
+#### Added
+- Added a kidnapping battle for Nathalia. Now you can't simply take her like in build **2024-07-01**, you have to fight and capture her before she is added to your team;
+- Added **GabWindows**, dialogues that show up in the upper area of the screen and don't stop gameplay;
+- Added a **crime timer**.
+#### Fixed
+- Screen tinting feature. Now the screen will tint according to the hour of day;
+- Tuned the time control function. Each game minute now corresponds to 2 real life seconds instead of 3;
+- Some mistranslations in the skills.
+#### Updated
+- Updated some of Nathalia's dialogs, added a few and fixed some;
+- Added some expressions for Nathalia's dialogs in the Skytech Store. Her storeroom graphics will come later;
+- Nathalia's statistics as an enemy. She has more HP and hits harder. May be retuned in the future;
+- Ratt's **Barrage** cooldown reduced from 4 turns to 3;
+- Protag's **Military Training** cooldown increased to 1 turn from 0.
+
+#### Changed
+- Battle View is now Front View;
+---
+
 ### Build 2024-07-01
 
 **Added**
