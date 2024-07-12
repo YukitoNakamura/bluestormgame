@@ -12,6 +12,22 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 
+### Build 2024-07-12
+
+#### Added
+- Ability to upgrade the Complex with one extra floor that has five captive spots;
+#### Fixed
+- Nathalia's timetable, left blank in **build 2024-07-05**(oops?);
+- Nathalia's graphics. Now the graphics will show up correctly;
+#### Removed
+- **Storeroom**. Feature moved to the **Complex** in **Duke Lane**, with 3 initial spots and 5 more per upgrade, closing on 2 upgrades;
+
+*The complex can be obtained for free during the beta, but will cost a lot of money in the final game.*
+
+[Download](https://www.patreon.com/posts/bluestorm-v2024-108011693)
+
+---
+
 ### Build 2024-07-05
 
 #### Added
