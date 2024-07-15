@@ -12,6 +12,16 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 
+### Build 2024-07-15
+
+#### Fixed
+- Nathalia could not be kidnapped after her battle in build 2024-07-12. Now, you're able to abduct her after battle;
+
+#### Changed
+- Paralysis after Barrage now remains for 2 turns. It varied from 1 to 2 before;
+
+---
+
 ### Build 2024-07-12
 
 #### Added
