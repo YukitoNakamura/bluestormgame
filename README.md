@@ -12,6 +12,31 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 
+### Build 2024-07-26
+
+#### Added
+- New damsel: Kaelyn Summers, a pretty, dark haired girl, who lives in Buckinstone Ridge. She is the second damsel and will be the second female party member in the future. She can be found either in the Plaza Square(south of government plaza) or in her apartment;
+- New class: IT Specialist, Kaelyn's exclusive class. IT Specialists can inflict confusion upon enemies, through their Digital Scramble skill, along with other skills;
+- Generic animation for the **Subdue** skill;
+- Row Formation now available;
+- Credits screen.
+
+#### Fixed?
+- Nathalia's chat graphics now have a higher resolution.
+
+#### Changed
+- Battle mode is back to **Side View**;
+- Battle Engine Core's functionality is back to the game, with better AI and much better battles;
+- Nathalia's class changed to Fighter;
+- Battles now light up to normal colors after the emerge message, even if they happen during the night. Only a few specific battles will have environment colors;
+- Game now runs in 1920x1080;
+- Battle command and battle status windows now have a transparent background.
+
+#### Removed
+- Nathalia's old sprites, since the game is now in side view, her front view sprites were removed from the game.
+
+---
+
 ### Build 2024-07-15
 
 #### Fixed
