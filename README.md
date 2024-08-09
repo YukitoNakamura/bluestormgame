@@ -12,6 +12,14 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 
+### Build 2024-08-09
+#### Added
+- Kaelyn to the storage area.
+
+#### Fixed
+- A few mistakes I spotted, along with version mistakes.
+
+---
 ### Build 2024-07-26
 
 #### Added
