@@ -10,7 +10,14 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 [DOWNLOAD](https://www.patreon.com/collection/620747?view=expanded)
 [More info](https://yukitoscorner.com/bluestorm) 
 
+
 ## Changelog
+
+### Build 2024-09-14
+#### Fixed
+- Character display bug in battle, that persisted since the new battlers were introduced.
+
+---
 
 ### Build 2024-08-09
 #### Added
