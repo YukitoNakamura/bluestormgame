@@ -12,6 +12,13 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 
 ## Changelog
+### Build 2024-09-28
+
+#### Changed:
+- Added high resolution pics for Nathalia during talk.
+- Added the Forced Marriage system back;
+You can find the necklace in the cabinet right beside the computer desk. Just press action on it.
+---
 
 ### Build 2024-09-14
 #### Fixed
