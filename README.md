@@ -12,6 +12,17 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 
 ## Changelog
+### Build 2024-10-12 beta
+
+#### Changed
+- Nathalia now has **tied up to chair** art.
+
+#### To do
+- Add pics and bed tie functionality;
+- Add pics to storage bondage.
+
+---
+
 ### Build 2024-09-28
 
 #### Changed:
