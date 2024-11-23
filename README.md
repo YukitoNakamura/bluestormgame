@@ -12,6 +12,22 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 
 ## Changelog
+---
+
+### Build 2024-11-23
+#### Added
+- **Tie Damsel to bed** feature;
+- Art for the **tie damsel to bed feature**;
+
+#### To do
+- Add more storage bondage pics;
+- Fix the **bride damsel on bed code**.
+
+#### Removed:
+- **Marriage Necklace** from the cabinet in the apartment.
+*Bride damsel on bed, which requires the marriage necklace, is buggy. I'll see if I can fix that bug for the **November 25th emergency update**.*
+---
+
 ### Build 2024-10-12 beta
 
 #### Changed
