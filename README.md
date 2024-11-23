@@ -15,6 +15,7 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 ---
 
 ### Build 2024-11-23
+
 #### Added
 - **Tie Damsel to bed** feature;
 - Art for the **tie damsel to bed feature**;
