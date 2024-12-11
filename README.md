@@ -13,7 +13,11 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2024-12-02
+#### Added
+- Personal transport. Will work only if outside. Right now, it only teleports you to your home or your complex. In the future, it will be reworked to detect where is your effective home, once more player houses are unlocked;
 
+---
 ### Build 2024-11-23
 
 #### Added
