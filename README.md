@@ -13,6 +13,18 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2024-12-14
+#### Fixed
+- After subduing Kaelyn, her image didn't vanish from the screen. Now it should;
+- Battle with **Kaelyn** not ending after tying her up. The battle should now end properly;
+- Fixed some typos regarding Kaelyn's kidnapping battle.
+
+#### To do
+- Work out some of the character's battle sprites. Nathalia's and Ratt's are unfinished right now.
+
+These may go to the next build
+
+---
 ### Build 2024-12-11
 #### Fixed:
 - Not able to sleep to pass time. Now added a feature for it on the bed;
