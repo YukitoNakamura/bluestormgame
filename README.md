@@ -13,6 +13,16 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2024-12-28
+#### Added:
+
+- Main quests 1 through 3, all translated.
+
+#### Fixed
+
+- A few translation mistakes.
+
+---
 ### Build 2024-12-14
 #### Fixed
 - After subduing Kaelyn, her image didn't vanish from the screen. Now it should;
