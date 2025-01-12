@@ -13,6 +13,14 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-01-11
+
+#### Added:
+- A few more quests, but unplayable right now.
+
+#### Fixed
+- Some leftover bugs from the dec 28th build.
+---
 ### Build 2024-12-28
 #### Added:
 
