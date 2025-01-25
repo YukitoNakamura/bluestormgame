@@ -14,6 +14,23 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-01-25
+#### Added
+ - More quests, still not playable.
+#### Fixed
+- Fixed a crash caused by the **Ashland Way Gym** door. Now the game should allow you to enter it without crashing;
+- Removed some buggy events;
+#### Updated
+- Bar dialog. Translated the bartender's lines to english;
+- Now you can order a beer, which will replenish your party's health by 90HP. Instant use, though;
+- Kung Fu Man's dialog. Most of his lines are now translated to english.
+#### Remaining Bugs
+- Random freeze happening sometimes. Haven't been able to track this thing down. Please report it in the [issues page](https://github.com/YukitoNakamura/bluestormgame/issues) if it happens with you.
+### Todo
+- Add the beer as a consumible item(probably by Feb 8th).
+- Add more barfly variants. They are all stock RPG Maker characters right now;
+
+---
 ### Build 2025-01-11
 
 #### Added:
