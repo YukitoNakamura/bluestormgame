@@ -9,6 +9,7 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 [DOWNLOAD](https://ouo.io/7t8elh)
 [More info](https://yukitoscorner.com/bluestorm) 
+[To report issues and mistranslations](https://github.com/YukitoNakamura/bluestormgame/issues)
 
 
 ## Changelog
