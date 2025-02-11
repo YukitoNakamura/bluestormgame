@@ -14,6 +14,21 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-02-08
+#### Added
+- **Tech Revive** skill for our IT Specialist(Kaelyn). Uses 20TP, revives an ally and restores 15% of his/her HP. Warms up for 1 turn and has a 3-turn cooldown;
+- Quit option under Phone Menu>Options. Read **bluestorm.txt**'s section 2.2 for more info. The file is in your game's root directory;
+- Added info on how to start the story in the game to **bluestorm.txt**. Read section 2.3 for more info.
+#### Disabled
+- Kidnapping disabled for Nathalia. As of now, it won't work for her.
+#### Updated
+- Retuned Kaelyn's stats as an enemy. Now she hits harder, has more defense, more HP and is more agile.
+#### To do
+- Nathalia's battler spritesheet. Probably by a midweek emergency update;
+- Spritesheets for Ratt and Thrax;
+
+---
+
 ### Build 2025-01-25
 #### Added
  - More quests, still not playable.
