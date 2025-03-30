@@ -14,6 +14,12 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-03-15
+#### Fixed
+- Some bugs regarding the map and such;
+- Some untranslated bits that have been reported.
+
+---
 ### Build 2025-02-08
 #### Added
 - **Tech Revive** skill for our IT Specialist(Kaelyn). Uses 20TP, revives an ally and restores 15% of his/her HP. Warms up for 1 turn and has a 3-turn cooldown;
