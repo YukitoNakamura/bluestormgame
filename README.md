@@ -14,6 +14,15 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-06-21
+#### Changed:
+- The 20+ outside city maps have been condensed to 5(8 with the beach and additional housing complex maps). The city is now formed of north, south, east, west and downtown areas.
+- Tilesets have changed from the default RPG Maker tilesets to Rinober's Futuristic City tilesets.
+- The game contains only the Cypress Flats interior, with the rest coming next week.
+- Protag's walking sprite is a placeholder, while I do the definitive sprites.
+- No quests, they will be reimplemented in the July 5 update.
+
+---
 ### Build 2025-03-15
 #### Fixed
 - Some bugs regarding the map and such;
