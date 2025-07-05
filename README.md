@@ -14,6 +14,29 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-07-05
+
+#### Added
+- Town Hall map added with first floor. Contains the basic services you'd find in a common town hall.
+- Town Hall receptionist now has a information role. In case you don't remember where things are, you can go to him and ask where each department is. Some of his options are still locked, as they will be redone with more updates.
+- Town Hall receptionist now has a Taxes menu. Yes, I plan to maybe add taxes to the game, but I need to check how to work out the battle prizes into the taxes. Taxes will be paid in a season basis once the system is fully implemented.
+- Ratt's flat has been readded to the game, but it's not enterable yet.
+- Some places now have openable doors, like the town hall and the protagonist's flat.
+- Phone menu readded.
+#### Removed:
+- Call Transport, Status and PassTime choices on the phone menu. 
+#### Reworks
+- Reworked the property menu, to show options in plural instead of singular.
+#### To do for July 12
+- Work out quests 1 to 3;
+- Readd the complex;
+- Readd day-night cycle.
+#### To do for the future updates:
+- Readd the damsels;
+- Readd the scenes;
+- Readd the chopper feature;
+- Work out story quests.
+---
 ### Build 2025-06-21
 #### Changed:
 - The 20+ outside city maps have been condensed to 5(8 with the beach and additional housing complex maps). The city is now formed of north, south, east, west and downtown areas.
