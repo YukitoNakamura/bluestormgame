@@ -14,6 +14,32 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-07-19
+#### Added:
+- Text above events. Characters or objects that provide quests will have a QUEST AVAILABLE text above them. Characters that are somehow important or interactable will have their names above them.
+- Text signs to doors. Whenever a door leads somewhere, there will be a sign above it.
+- Switched the menu to a "Kingdom Hearts" style with new features.
+- Ratt and Thrax as party members, exclusive to THIS build.
+#### Fixed:
+- Cracked walls in East Area, which were wrongly passable in the last build;
+- Buggy counters. Now you can interact with the barman and the Skytech clerk.
+#### Returning:
+- The Complex is finally back, with an added Trophy Room(unlockable via sidequests). Each cell has an energy door. The complex also has a sign above the gate.
+- Cells: Basic cells are now available. In the Administration office, there will be a door with a Hallways sign above it, interact with that door to go to the hallways, then, go right to the first door marked Basement Level 1.
+- Transport Helicopter is back, free for now. Push Page Down(RB/R1) and select **Call Transport**.
+- Screen tinting now working again.
+
+#### Bugs identified and not fixed
+- Hide message window. For now, the message window cannot be hidden via keyboard or controller, only works with right mouse button. I'll see if I can get the plugin dev to fix it or fix it myself. Bluestorm.txt has been updated to reflect this.
+#### Bugs identified and working on:
+- When you switch party member positions around, the graphics will not update unless you leave and come back to the menu. This happens because the graphics are kinda independent from the menu itself;
+- Character menu graphics simply appear instead of sliding in with the menu. Working on it;
+- Quest Journal(Journal in the menu) lacks a description. I'm looking into a way to add it.
+#### To do
+- Rework the Subdue skill. For now, it will be disabled;
+- Rework the damsels.
+
+---
 ### Build 2025-07-05
 
 #### Added
