@@ -14,6 +14,11 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-07-20
+#### Fixed:
+- Character's starting position. It is related to the clock and time features;
+- Menu display. July 19th build came out without the menu.
+---
 ### Build 2025-07-19
 #### Added:
 - Text above events. Characters or objects that provide quests will have a QUEST AVAILABLE text above them. Characters that are somehow important or interactable will have their names above them.
