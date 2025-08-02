@@ -14,6 +14,12 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-08-02
+#### Changed:
+- From now on, system messages will be shown using **Yanfly's GabWindows**. Whenever you hear the notification sound or ME, look at the top of the screen;
+- Quests 1 to 3 reimplemented, also a tip on where to find quest 2.
+ALERT: Please wipe your current game folder before copying the new files in.
+---
 ### Build 2025-07-20
 #### Fixed:
 - Character's starting position. It is related to the clock and time features;
