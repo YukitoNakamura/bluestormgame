@@ -14,6 +14,13 @@ Bluestorm is a RPG Game set in a near-future world(2076):
 
 ## Changelog
 ---
+### Build 2025-11-08
+#### Fixed:
+- Fixed an issue where Thrax's Flat door wasn't teleporting;
+- Fixed an issue where Thrax wasn't playing the normal quest dialogue for the Arming Up I quest;
+- Fixed the Arming Up I quest.
+
+---
 ### Build 2025-08-02
 #### Changed:
 - From now on, system messages will be shown using **Yanfly's GabWindows**. Whenever you hear the notification sound or ME, look at the top of the screen;
